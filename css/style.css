@@ -34,6 +34,7 @@ img {
 }
 
 .indifferent {
+  box-shadow: -5px, -5px;
   background-color: #dddd22;
 }
 
